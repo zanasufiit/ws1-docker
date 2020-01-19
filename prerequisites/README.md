@@ -3,6 +3,7 @@
 - bring a PC (/Mac) with yourself
 - it should have docker installed
    - For Windows or Macs download and install [Docker Desktop](https://www.docker.com/products/docker-desktop)
+       - for windows Win10 Pro, Enterprise or Education is required (because of Hyper-V)
    - For Linux install [docker engine](https://docs.docker.com/install/) and [docker-compose](https://docs.docker.com/compose/install/)
 
 - verify that docker and docker-compose works
