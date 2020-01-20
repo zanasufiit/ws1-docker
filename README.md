@@ -14,9 +14,10 @@
 ## Sections
 
 - [prerequisites](prerequisites)
-- Why containers? What is docker? What?
-- How to use it?
+- [Why containers? What is docker? What?](docker-intro.md)
+- [How to use it?](docker-practical-intro.md)
 - [Introduce docker-compose](docker-compose)
+- [Tips'n'Tricks](tips-n-tricks.md)
 - [Containerize everything](examples)
 - [Automate it for free])[github-actions]
 
