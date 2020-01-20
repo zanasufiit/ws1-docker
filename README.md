@@ -14,11 +14,12 @@
 ## Sections
 
 - [prerequisites](prerequisites)
-- why docker?
+- Why containers? What is docker? What?
 - Dockerfile structure
-- simple docker tricks
+- simple tricks
 - [docker-compose](docker-compose)
 - [containerize everything](examples)
+- [automate it for free])[github-actions]
 
 to be continued...
 
