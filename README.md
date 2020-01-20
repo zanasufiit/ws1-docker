@@ -3,10 +3,19 @@
 
 ... lorem ipsum lalalal
 
-# Sections
+## Scope of the workshop
+
+- introduce containers (only docker)
+- basic usage of docker (CLI, registries, docker-compose)
+- tips for simplifying life (at school, work, anywhere else)
+    - with examples
+- (very) short introduction into automatic docker builds using Github actions
+
+## Sections
 
 - [prerequisites](prerequisites)
 - why docker?
+- Dockerfile structure
 - simple docker tricks
 - docker-compose
 - containerize everything
