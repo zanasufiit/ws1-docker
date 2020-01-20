@@ -1,12 +1,12 @@
 # Database server
 
-Nowadays we thankfuly do not need to install every database we need during local development.
+Nowadays we thankfully do not need to install every database we need during local development.
 
 
 ## PostgreSQL
-As an example we will run a local instance of PostgreSQL 12.1 using [official docker image](https://hub.docker.com/_/postgres)
+As an example, we will run a local instance of PostgreSQL 12.1 using [official docker image](https://hub.docker.com/_/postgres)
 
-### run using cli
+### run using CLI
 ```bash
 docker run \
         -p 5432:5432 \
@@ -16,7 +16,7 @@ docker run \
         postgres:12.1
 ```
 
-You can also add `-d` flag to run it in background. And also add [restart policy](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy) if needed.
+You can also add the `-d` flag to run it in background. And also add [restart policy](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy) if needed.
 
 ### run using docker-compose
 See provided [docker-compose.yml](docker-compose.yml).

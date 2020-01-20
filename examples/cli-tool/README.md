@@ -5,7 +5,7 @@ Using containers you can also get rid of most of the problems with CLI tools. Fo
 Thanks to docker you can create simple one-off containers with CLI interface.
 
 ## Micro-curl
-We prepared a simple application made with Python 3.8 using Click (for CLI) and requests libraries. All this application does is allowing us to do:
+We prepared a [simple application](app) made with Python 3.8 using Click (for CLI) and requests libraries. All this application does is allowing us to do:
 
 ```bash
 python micro-curl.py <url>
@@ -20,7 +20,22 @@ If we wanted to use this application normally we would need to have Click and re
 We can make a docker image which will hide all these requirements.
 
 
-As the first step, we need to create a [Dockerfile](app/Dockerfile) after that we can build an image.
+As the first step, we need to create a Dockerfile.
+
+```Dockerfile
+FROM python:3.8.1-slim-buster
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+
+COPY micro-curl.py micro-curl.py
+
+ENTRYPOINT ["python3", "micro-curl.py"]
+```
+
+Having this we can build the image.
 
 ```
 docker build ./app -t znf/micro-curl:live
