@@ -19,7 +19,7 @@
 - [Introduce docker-compose](docker-compose)
 - [Tips'n'Tricks](tips-n-tricks.md)
 - [Containerize everything](examples)
-- [Automate it for free])[github-actions]
+- [Automate it for free](github-actions)
 
 to be continued...
 
