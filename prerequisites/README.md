@@ -4,7 +4,7 @@
 - basic experience with git and command line (powershell, bash, ...)
 - basic programming experience (to understand the examples)
 
-- prepare for the workshop using steps in the next section
+- prepare for the workshop by doing the steps in the next section
 
 ## Preparation
 - bring a PC (/Mac) with yourself

@@ -17,8 +17,8 @@
 - why docker?
 - Dockerfile structure
 - simple docker tricks
-- docker-compose
-- containerize everything
+- [docker-compose](docker-compose)
+- [containerize everything](examples)
 
 to be continued...
 
