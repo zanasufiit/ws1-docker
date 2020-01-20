@@ -23,5 +23,8 @@
 
 to be continued...
 
+## Ask author
+Use email: [hello@kamko.dev](mailto:hello@kamko.dev?subject=[ZNF-WS]%20Docker%20workshop%20question)
+
 ## License
 [MIT](LICENSE)
