@@ -6,7 +6,7 @@ todo
     - basic structure
     - small example
 2. CLI
-    - run, stop, ps, restart, top, exec, rm, build, push
+    - run, stop, ps, restart, top, exec, rm, build, push, logs, inspect
     - flags
 3. Exec bash
 4. Registries

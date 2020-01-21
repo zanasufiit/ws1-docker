@@ -7,3 +7,6 @@ TODO
 - layers
 - use cases
 - docker and linux
+- ephemeral container
+- container, volume, image storage
+- registry + dockerfile
