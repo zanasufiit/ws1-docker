@@ -3,6 +3,11 @@
 
 ... lorem ipsum lalalal
 
+## Targeted audience
+
+- normal developers with little to no experience using containers
+- not explaining details taking it more as a tool
+
 ## Scope of the workshop
 
 - introduce containers (only docker)
