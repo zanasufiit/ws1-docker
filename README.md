@@ -6,7 +6,10 @@
 ## Targeted audience
 
 - normal developers with little to no experience using containers
-- not explaining details taking it more as a tool
+
+## Aim of the workshop
+
+- introduce docker as a tool for simplifying life
 
 ## Scope of the workshop
 
