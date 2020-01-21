@@ -8,10 +8,11 @@ todo
 2. CLI
     - run, stop, ps, restart, top, exec, rm, build, push
     - flags
-3. Registries
-3. Networking
+3. Exec bash
+4. Registries
+5. Networking
     - network
     - ports
-4. Volumes
+6. Volumes
     - data
 
