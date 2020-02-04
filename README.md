@@ -1,7 +1,11 @@
 # Za Nasu FIIT - Workshop - Docker
-[Facebook announcement](https://www.facebook.com/zanasufiit/posts/130464185110910)
+- [Facebook announcement (Slovak)](https://www.facebook.com/zanasufiit/posts/130464185110910)
+- [Facebook event (Slovak)](https://www.facebook.com/events/178170716733030/)
+- [Eventbrite (Slovak)](https://www.eventbrite.com/e/docker-workshop-za-nasu-fiit-tickets-91751642633)
+- Slides (Slovak) ([pdf](data/slides.pdf), [pptx](data/slides.pdf))
 
-... lorem ipsum lalalal
+
+#todo
 
 ## Targeted audience
 
@@ -28,11 +32,11 @@
 - [Tips'n'Tricks](tips-n-tricks.md)
 - [Containerize everything](examples)
 - [Automate it for free](github-actions)
+- [Hands-on (Slovak)](https://github.com/zanasufiit/ws1-docker-hands-on)
 
-to be continued...
 
 ## Ask author
-Use email: [hello@kamko.dev](mailto:hello@kamko.dev?subject=[ZNF-WS]%20Docker%20workshop%20question)
+[hello@kamko.dev](mailto:hello@kamko.dev?subject=[ZNF-WS]%20Docker%20workshop%20question)
 
 ## License
 [MIT](LICENSE)
